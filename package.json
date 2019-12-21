@@ -1,0 +1,22 @@
+{
+  "name": "underscoreproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "underscore.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RiinaMiichelle/underscoreProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RiinaMiichelle/underscoreProject/issues"
+  },
+  "homepage": "https://github.com/RiinaMiichelle/underscoreProject#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
